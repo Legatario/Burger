@@ -2,7 +2,7 @@
 <template>
   <Banner />
   <main class="main_container">
-    <h1>Monte o seu Burger</h1>
+    <h1>Monte o seu Burguer</h1>
     <BurgerForm />
   </main>
 </template>
